@@ -4,7 +4,7 @@
 
 - 😄 Pronouns **he/him**
 - 🌍 Based in **Amsterdam**
-- 🌱 I’m currently learning **Headless BI architecture** and **open-source licensing**
+- 🌱 I’m currently learning **Nix & NixOS**
 - 🔑 Keywords: `[data architecture, data engineering, data platforms, data warehousing, data pipelines, data mesh, analytics engineering, DataOps]`
 
 ## Skills
@@ -70,8 +70,8 @@
 
 <!-- ## BI -->
 
-<img width="30px" style="padding-right:10px;" alt="cube.dev" src="https://seeklogo.com/images/C/cube-icon-logo-5E588A2E6F-seeklogo.com.png" />
-<img width="30px" style="padding-right:10px;" alt="superset" src="https://seeklogo.com/images/S/superset-icon-logo-D70353ADD5-seeklogo.com.png" />
-<img width="30px" style="padding-right:10px;" alt="looker" src="https://seeklogo.com/images/G/google-looker-logo-B27BD25E4E-seeklogo.com.png" />
+<img width="30px" style="padding-right:10px;" alt="cube.dev" src="https://avatars.githubusercontent.com/u/52467369?s=48&v=4" />
+<img width="30px" style="padding-right:10px;" alt="superset" src="https://media.graphcms.com/7MpYWOZoRi29mXvbsCek" />
+<img width="30px" style="padding-right:10px;" alt="looker" src="https://cdn.prod.website-files.com/617fbd73445510fe8e083f62/6646d6a3c44e5697802d5c24_646ba93161d2f66e1f6801dd_Looker.png" />
 
 </div>
