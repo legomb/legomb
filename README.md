@@ -25,7 +25,7 @@
 <img width="30px" style="padding-right:10px;" alt="linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 <img width="30px" style="padding-right:10px;" alt="bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img width="30px" style="padding-right:10px;" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img width="30px" style="padding-right:10px;" alt="dbt" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" />
+<img width="60px" style="padding-right:10px;" alt="dbt" src="https://cdn.cookielaw.org/logos/4a2cde9e-5f84-44b2-bdbb-6a93354d1c72/e1199e19-1935-49fa-a4e2-bf7f9d08cee6/783d7c83-af8c-4032-901b-b3ec48982078/dbt-logo.png" />
 <img width="30px" style="padding-right:10px;" alt="dagster"  src="https://dagster.io/images/brand/logos/dagster-primary-mark.svg" />
 <img width="30px" style="padding-right:10px;" alt="meltano"  src="https://hub.meltano.com/assets/static/meltano.73f0d34.f6f689a38b0fbf42dc9bfa55e539954a.png" />
 <img width="30px" style="padding-right:10px;" alt="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> 
