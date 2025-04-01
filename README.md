@@ -6,6 +6,7 @@
 - 🌍 Based in **Amsterdam**
 - 🌱 I’m currently learning **Nix & NixOS**
 - 🔑 Keywords: `[data architecture, data engineering, data platforms, data warehousing, data pipelines, data mesh, analytics engineering, DataOps]`
+- 👁️ Privacy: Most of my repos are private, including personal projects and special assignments for companies. If you're here to check out my skills for a specific industry/stack, please don't hesitate to ask.
 
 ## Skills
 
